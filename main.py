@@ -40,7 +40,7 @@ async def roll(ctx):
 
 @bot.command(name="ping")
 async def ping(ctx):
-    await ctx.send(f':ping_pong: SpanishBot ping: {int(bot.latency * 100) / 100}ms')
+    await ctx.send(f':ping_pong: SpanishBot ping: {int(bot.latency)}ms')
 
 ##################################### DATABASE FUNCTIONS ####################################
 
