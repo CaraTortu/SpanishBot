@@ -1,0 +1,14 @@
+{
+    "roto": "broken",
+    "broken": "roto",
+    "to eat": "comer",
+    "comer": "to eat",
+    "I am not feeling good": "no me encuentro bien",
+    "no me encuentro bien": "I am not feeling good",
+    "I am feeling good": "me encuentro bien",
+    "me encuentro bien": "I am feeling good",
+    "to interview": "entrevistar",
+    "entrevistar": "to interview",
+    "to train": "entrenar",
+    "entrenar": "to train"
+}
